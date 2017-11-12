@@ -3,7 +3,7 @@ def display_rainbow(colors)
 end
 
 
-puts ": #{letters[0]}"
-puts ": #{letters[1]}"
-puts ": #{letters[2]}"
+puts "R: #{colors[0]}"
+puts "O: #{colors[1]}"
+puts "Y: #{colors[2]}"
 # Write your #display_rainbow method here
